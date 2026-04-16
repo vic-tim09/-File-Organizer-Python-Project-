@@ -20,12 +20,13 @@ This is a Python-based automation tool that organizes files in a folder into cat
 3. Run the script:
 
 📁 Folder Structure
-Images
-Documents
-Videos
-Music
-Apps
+Images,
+Documents,
+Videos,
+Music,
+Apps,
 Others
+
 🔮 Future Improvements
 GUI support
 Auto file detection
