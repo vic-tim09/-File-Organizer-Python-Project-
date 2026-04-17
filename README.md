@@ -1,11 +1,11 @@
 # File-Organizer-Python-Project-
 
-This is a Python-based automation tool that organizes files in a folder into categories like Images, Documents, Videos, Music, etc.<br>
+This is a Python-based automation tool that organizes files in a folder into categories like Images, Documents, Videos, Music, etc.  
+
 ##🎯 Problem  
 Downloads folder gets messy with mixed files.
 
 ##💡 Solution  
-
 This Python tool automatically organizes files into categories and removes duplicates.
 
 ## 🚀 Features
